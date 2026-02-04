@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedroi and I'm a software developer from Portugal</p>
+<p align="left">My name is Pedro and I'm a software developer from Portugal</p>
 
 ###
 
