@@ -10,7 +10,16 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014.<br>📚 I'm currently leveling up at 42 Lisboa.<br>🎯 My main goal is to join a team that helps me develop my skills.<br>🛠️ Projects I’m proud of: [minishell](https://github.com/biertisch/minishell) - a Bash-like shell written in C<br>👨‍💻 Currently working on: [BeanCounter](https://github.com/pdrlrnc/BeanCounter) - a personal finance web app written in Java Spring, Angular and Postgres SQL <br> 📫 Reach me thru my email: pedrolourencoemail@gmail.com or my [linkedin](https://www.linkedin.com/in/pedro-de-sousa-lourenço/) <br>🎲 Fun fact: I do my own vermicompost (please don't google it).</p>
+### About me
+
+✨ Creating bugs since 2014.  
+📚 I'm currently leveling up at 42 Lisboa.  
+🎯 My main goal is to join a team that helps me develop my skills.  
+🛠️ Projects I'm proud of: [minishell](https://github.com/biertisch/minishell) – a Bash-like shell written in C  
+💻 Currently working on: [BeanCounter](https://github.com/pdrlrnc/BeanCounter) – a personal finance web app written in Java Spring, Angular, and Postgres SQL  
+📫 Reach me via email: pedrolourencoemail@gmail.com or on [LinkedIn](https://www.linkedin.com/in/pedro-de-sousa-lourenço/)  
+🎲 Fun fact: I do my own vermicompost (please don't google it)
+
 
 ###
 
