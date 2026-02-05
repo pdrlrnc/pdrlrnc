@@ -52,3 +52,5 @@
 </div>
 
 ###
+
+<center><img src ="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pdrlrnc&layout=compact&theme=vision-friendly-dark" /></center>
